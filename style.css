@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+    margin: 10px;
+}
+.item-1,.item-2,.item-3,.item-4{
+    height:700px;
+    display: inline-block;
+    width:250px;
+    vertical-align: top;
+    margin:10px;
+    font-family:"Karma", serif;
+}
+h3{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0;
+}
+img{
+    width:100%;
+}
+p{
+    margin: 0;
+}
